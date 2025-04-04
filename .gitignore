@@ -11937,3 +11937,4 @@
 /.venv/pyvenv.cfg
 /emotional_diary/settings.py
 /db.sqlite3
+.venv/
